@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StabbyMcStabStab
+- 👀 I’m interested in DAO's and Decentralisation
+- 🌱 I’m currently learning Solidity with a touch of JS
+- 💞️ I’m looking to collaborate on the Doge Daonation platorm, including Dogefundme and The Barkchain
+- 📫 Reach me at stabby@dogedaonation.io
